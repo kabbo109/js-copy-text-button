@@ -1,2 +1,5 @@
-# js-copy-text-button
-Copy text to clipboard using JavaScript
+# JS Copy Text Button
+
+A simple copy-to-clipboard button built using JavaScript.
+
+This project demonstrates clipboard interaction and user feedback.
